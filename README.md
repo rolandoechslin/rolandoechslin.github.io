@@ -1,6 +1,6 @@
 # rolandoechslin.github.io
 Playground / Code / Snippets / Tools
 
-## Codeing snippets
-### icon on right side
-http://tholman.com/github-corners/
+### Many thanks to
+- [corner image on right side / github-corners](http://tholman.com/github-corners/) 
+
