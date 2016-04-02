@@ -1,4 +1,4 @@
-# rolandoechslin.github.io [rolandoechslin.github.io](http://rolandoechslin.github.io) 
+# [rolandoechslin.github.io](http://rolandoechslin.github.io) 
 Playground / Code / Snippets / Tools
 
 ### Many thanks to
